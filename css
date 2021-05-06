@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    background-color:rgba(119, 63, 248, 0.781);
+
+}
+h1{ 
+    text-align: center; color: whitesmoke;font-size: 35px;
+}
+
+h2{
+    text-align: center; color: whitesmoke;
+}
+p{
+    text-align: center;color: whitesmoke;font-size: 20px;
+}
+img{
+    text-align: right;
+}
+div{
+    text-align: center;
+}
+mark{
+    color: rgb(3, 165, 194);
+}
